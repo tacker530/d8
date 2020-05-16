@@ -1,0 +1,108 @@
+
+--- tree list ---
+
+     [1] 如来寺石仏群	([1] 如来寺石仏群,[2] 安閑寺,[3] 旧村松商店) 
+     [2] 安閑寺	([1] 如来寺石仏群,[2] 安閑寺,[3] 旧村松商店) 
+     [3] 旧村松商店	([1] 如来寺石仏群,[2] 安閑寺,[3] 旧村松商店) 
+       [906] 愛と理性	([1] 如来寺石仏群,[2] 安閑寺,[3] 旧村松商店) 
+         [294] 日本的變電箱	([906] 愛と理性,[2] 安閑寺,[3] 旧村松商店) 
+           [424] Cascade	([294] 日本的變電箱,[2] 安閑寺,[3] 旧村松商店) 
+           [296] 橋爪門続櫓(hashizume Mon Tsuzuki Yagura)	([906] 愛と理性,[294] 日本的變電箱,[3] 旧村松商店) 
+           [791] 騎手の像	([906] 愛と理性,[2] 安閑寺,[294] 日本的變電箱) 
+         [665] 松山寺	([1] 如来寺石仏群,[906] 愛と理性,[3] 旧村松商店) 
+           [288] 石川県指定文化財 玉泉園	([665] 松山寺,[906] 愛と理性,[3] 旧村松商店) 
+           [649] 旧 成瀬町	([1] 如来寺石仏群,[665] 松山寺,[3] 旧村松商店) 
+           [642] 金沢くらしの博物館	([1] 如来寺石仏群,[906] 愛と理性,[665] 松山寺) 
+         [832] D. T. Suzuki Museum	([1] 如来寺石仏群,[2] 安閑寺,[906] 愛と理性) 
+           [857] 里見町	([832] D. T. Suzuki Museum,[2] 安閑寺,[906] 愛と理性) 
+           [695] 旧鷹匠町	([1] 如来寺石仏群,[832] D. T. Suzuki Museum,[906] 愛と理性) 
+           [763] 鈴木大拙の像	([1] 如来寺石仏群,[2] 安閑寺,[832] D. T. Suzuki Museum) 
+ 
+
+--- portal list ---
+
+longitude,	latitude,	portalname
+136.676004,36.553370,"[1] 如来寺石仏群"
+136.645116,36.558339,"[2] 安閑寺"
+136.662874,36.570553,"[3] 旧村松商店"
+136.661656,36.560607,"[906] 愛と理性"
+136.656620,36.563468,"[294] 日本的變電箱"
+136.655105,36.563724,"[424] Cascade"
+136.660278,36.564955,"[296] 橋爪門続櫓(hashizume Mon Tsuzuki Yagura)"
+136.654809,36.560655,"[791] 騎手の像"
+136.666662,36.561687,"[665] 松山寺"
+136.663914,36.564179,"[288] 石川県指定文化財 玉泉園"
+136.668328,36.561523,"[649] 旧 成瀬町"
+136.668077,36.558105,"[642] 金沢くらしの博物館"
+136.660891,36.557531,"[832] D. T. Suzuki Museum"
+136.655467,36.559109,"[857] 里見町"
+136.667734,36.555901,"[695] 旧鷹匠町"
+136.660679,36.556547,"[763] 鈴木大拙の像"
+ 
+
+--- iso pattern list ---
+
+136.676004,36.553370,"[1] 如来寺石仏群"
+136.645116,36.558339,"[2] 安閑寺"
+136.662874,36.570553,"[3] 旧村松商店"
+136.661656,36.560607,"[906] 愛と理性"
+136.656620,36.563468,"[294] 日本的變電箱"
+136.666662,36.561687,"[665] 松山寺"
+136.660891,36.557531,"[832] D. T. Suzuki Museum"
+136.655105,36.563724,"[424] Cascade"
+136.660278,36.564955,"[296] 橋爪門続櫓(hashizume Mon Tsuzuki Yagura)"
+136.654809,36.560655,"[791] 騎手の像"
+136.663914,36.564179,"[288] 石川県指定文化財 玉泉園"
+136.668328,36.561523,"[649] 旧 成瀬町"
+136.668077,36.558105,"[642] 金沢くらしの博物館"
+136.655467,36.559109,"[857] 里見町"
+136.667734,36.555901,"[695] 旧鷹匠町"
+136.660679,36.556547,"[763] 鈴木大拙の像"
+ 
+
+--- Drawtools list ---
+
+[
+ {"type":"polyline","latLngs":[{"lat":36.553370,"lng":136.676004},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.558339,"lng":136.645116},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.570553,"lng":136.662874},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560607,"lng":136.661656},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560607,"lng":136.661656},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560607,"lng":136.661656},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.563468,"lng":136.656620},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.563468,"lng":136.656620},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.563468,"lng":136.656620},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.563724,"lng":136.655105},{"lat":36.563468,"lng":136.656620}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.563724,"lng":136.655105},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.563724,"lng":136.655105},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.564955,"lng":136.660278},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.564955,"lng":136.660278},{"lat":36.563468,"lng":136.656620}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.564955,"lng":136.660278},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560655,"lng":136.654809},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560655,"lng":136.654809},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.560655,"lng":136.654809},{"lat":36.563468,"lng":136.656620}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.561687,"lng":136.666662},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.561687,"lng":136.666662},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.561687,"lng":136.666662},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.564179,"lng":136.663914},{"lat":36.561687,"lng":136.666662}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.564179,"lng":136.663914},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.564179,"lng":136.663914},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.561523,"lng":136.668328},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.561523,"lng":136.668328},{"lat":36.561687,"lng":136.666662}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.561523,"lng":136.668328},{"lat":36.570553,"lng":136.662874}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.558105,"lng":136.668077},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.558105,"lng":136.668077},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.558105,"lng":136.668077},{"lat":36.561687,"lng":136.666662}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.557531,"lng":136.660891},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.557531,"lng":136.660891},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.557531,"lng":136.660891},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.559109,"lng":136.655467},{"lat":36.557531,"lng":136.660891}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.559109,"lng":136.655467},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.559109,"lng":136.655467},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.555901,"lng":136.667734},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.555901,"lng":136.667734},{"lat":36.557531,"lng":136.660891}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.555901,"lng":136.667734},{"lat":36.560607,"lng":136.661656}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.556547,"lng":136.660679},{"lat":36.553370,"lng":136.676004}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.556547,"lng":136.660679},{"lat":36.558339,"lng":136.645116}],"color":"dodgerblue"}
+,{"type":"polyline","latLngs":[{"lat":36.556547,"lng":136.660679},{"lat":36.557531,"lng":136.660891}],"color":"dodgerblue"}
+]
